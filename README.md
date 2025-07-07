@@ -33,17 +33,20 @@ This project is a fully functional **Database Management System** for a motorcyc
 - 💬 Review system for customer feedback
 - 📊 SQL reports to analyze performance
 
-
-
 ## 🎤 Project Presentation
---
+
 A PowerPoint presentation is included for walkthrough and explanation:
 
 📂 [`Motorcycle_Rental_DBMS_Presentation.pptx`](./Motorcycle_Rental_DBMS_Presentation.pptx)
 
 This presentation covers:
 - Problem Statement
----
+- ER Diagram
+- Schema Overview
+- Key SQL Queries
+- Project Features & Use Cases
+
+--
 
 ## 🧠 Sample SQL Queries
 
